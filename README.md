@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
-My name is Vlad. I'm web-developer from Saint-Petersburg
+My name is Vlad. I'm web-developer from Saint-Petersburg. My favourite tech stack: Laravel + React + Mysql.
 
-- 🌱 I’m currently learning [Thinknetica React Course](https://github.com/h001y/react-course)
+- 🌱 My react project for Thinknetica Course [Thinknetica React Course](https://github.com/h001y/react-course)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100004494829430), [Vk](https://vk.com/holly92)
 <!--
 **h001y/h001y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
