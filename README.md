@@ -2,6 +2,7 @@
 
 My name is Vlad. I'm web-developer from Saint-Petersburg. My favourite tech stack: Laravel + React + Mysql.
 
+- 💻 I'm currently working on CLI-php-library [cli-link](https://github.com/h001y/cli-php-library)
 - 🌱 My react project for Thinknetica Course [Thinknetica React Course](https://github.com/h001y/react-course)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100004494829430), [Vk](https://vk.com/holly92)
 <!--
