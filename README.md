@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Vlad. I'm web-developer from Saint-Petersburg. My favourite tech stack: Laravel + React + Mysql.
+My name is Vlad. I'm web-developer from Saint-Petersburg. My favourite stack: Laravel + React + Mysql.
 
 - 💻 I'm currently working on CLI-php-library [cli-lib](https://github.com/h001y/cli-php-library)
 - 🌱 My react project for Thinknetica Course [React](https://github.com/h001y/react-course), [Redux](https://github.com/h001y/redux_practice)
